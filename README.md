@@ -1,4 +1,4 @@
-# PRODIGY_WD-01
+# PRODIGY_WD_01
 Resposive landing page
 This project is a responsive landing page for a new clothing collection. The landing page is designed to be visually appealing and easy to use on any device. It features a large hero image of the new collection, as well as a brief description of the collection and its features. Visitors to the landing page can also learn more about the brand and its mission, and they can easily purchase items from the collection.
 
